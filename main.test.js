@@ -31,6 +31,10 @@ test("the array values should contain card values", () => {
   expect(values.values).toContain("K");
   expect(values.values).toContain("A");
 });
+<<<<<<< HEAD
+git;
+=======
+>>>>>>> Development
 
 test("the array values should not be Undefined", () => {
   expect(values.values).not.toBeUndefined();
