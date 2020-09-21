@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/exponentsoftware/MS_Card-game_Centaurus_Tep_Online_Part-time_2020_2#readme",
   "devDependencies": {
+    "eslint-plugin-jest": "^24.0.2",
     "jest": "^26.4.2"
   }
 }
